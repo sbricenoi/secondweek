@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Migrated to Material3 theme stub to satisfy resource linking with Compose. -->
+    <style name="Theme.SecondWeek" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize if needed; Compose Material3 handles colors. -->
+    </style>
+</resources>

@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Material3 Night theme stub -->
+    <style name="Theme.SecondWeek" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
