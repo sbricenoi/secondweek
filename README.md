@@ -245,6 +245,6 @@ fun authenticate(email: String, password: String): Boolean
 ---
 
 **Proyecto desarrollado para DSY2204 - Desarrollo de Aplicaciones Móviles**  
-**Instituto Profesional AIEP - Semana 5 - Septiembre 2025**
+**Instituto Profesional DUOC - Semana 5 - Septiembre 2025**
 
 
